@@ -49,7 +49,3 @@ Web application built with Streamlit that helps manage and track tickets, provid
 ## Contributing
 
 Contributions to improve Ticket Tracker are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-[Specify your license here, e.g., MIT License]
