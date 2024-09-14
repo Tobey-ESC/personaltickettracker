@@ -19,7 +19,7 @@ Web application built with Streamlit that helps manage and track tickets, provid
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/ticket-tracker.git
+   git clone https://github.com/Tobey-ESC/ticket-tracker.git
    cd ticket-tracker
    ```
 
